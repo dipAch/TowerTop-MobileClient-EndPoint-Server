@@ -3,12 +3,12 @@
 It came out of an mobile application that I was making for the Ministry of Agriculture. It was used as a data service tier for the mobile application. Did Basic Authentication using available 'Node' Modules.```
 
 ## Implementation
-### Platform
-- ```Node.JS```
+### **Platform**
+ -- ```Node.JS```
 ### **Language**
-- ```JavaScript```
+ -- ```JavaScript```
 ### **Data Store**
-- ```MySQL```
+ -- ```MySQL```
 
 ## Usage
 Comes as a readily available API Server, made with the standard boiler plate code readily available.
