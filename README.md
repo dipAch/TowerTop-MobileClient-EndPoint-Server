@@ -13,3 +13,5 @@ It came out of an mobile application that I was making for the Ministry of Agric
 ## Usage
 Comes as a readily available API Server, made with the standard boiler plate code readily available.
 Change accordingly to suit your requirements.
+
+```Make sure to run the package.json file for the initial setup.```
